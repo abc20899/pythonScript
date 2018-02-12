@@ -1,4 +1,3 @@
-# https://leohxj.gitbooks.io/a-programmer-prepares/software/mac/softwares/iTerm2.html
 # encoding=utf8
 import requests
 import time
