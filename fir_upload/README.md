@@ -40,7 +40,7 @@
 		        result.write(buffer, 0, length)
 		    }
 		    println(result.toString("UTF-8"))
-			}
+		}
 	}
 	
 	//./gradlew myBuild
